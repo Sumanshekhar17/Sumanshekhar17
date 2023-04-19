@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumanshekhar17
 - 👀 I’m interested in Oceanography and modeling Ocean on my computer.
-- 🌱 I’m currently working on Offshore Polynya in weddell sea.
+- 🌱 I’m currently working on Heat budget analysis of Mid atlantic bight.
 - 💞️ I am always open to talk and to learn.
 - 📫 This is my email- ss4338@marine.rutgers.edu
 
